@@ -60,6 +60,7 @@ E-commerce platform tables:
 ## Relationships and directionality
   - **one-to-many**: Single
   - **one-to-one**: Biderectional
+  - **Multiple fact tables are present**
        
 
  
