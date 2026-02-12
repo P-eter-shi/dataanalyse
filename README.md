@@ -1,5 +1,7 @@
 E-commerce Database Design
 
+### This E-commerce database is independet of the powerbi report that is in the repository
+
 ### 1. Ecommerce ERD
 
 * Clearly define all entities (tables) and their attributes
