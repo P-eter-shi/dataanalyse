@@ -65,7 +65,8 @@ The following tables must be created for the e-commerce platform:
   Defines attribute data types (e.g., text, number, boolean)
 
 ## Relationships and directionality
-  - **one-to-many**:
+  - **one-to-many**: Single
+  - **one-to-one**: Biderectional
        
 
  
