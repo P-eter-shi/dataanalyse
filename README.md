@@ -1,23 +1,16 @@
 E-commerce Database Design
 
-## Project Instructions
-
-### 1. Create an ERD
+### 1. Ecommerce ERD
 
 * Clearly define all entities (tables) and their attributes
-* Identify and document relationships between tables
-* Specify primary keys, foreign keys, and constraints
-* Use tools such as:
-
-  * Lucidchart
+* Identified relationships between tables
+* Specified primary keys, foreign keys, and constraints
+* Used:
   * draw.io
-  * dbdiagram.io
-  * MySQL Workbench
 
-### 2. Plan the Data Flow
+### 2. Plan of  the Data Flow
 
-* Map how data flows between entities
-* Discuss and agree on the database structure as a team
+* Data flows between entities , connected through keys
 * Design with scalability and clarity in mind
 
 
@@ -26,7 +19,7 @@ E-commerce Database Design
 
 ## Database Tables
 
-The following tables must be created for the e-commerce platform:
+E-commerce platform tables:
 
 * **Product_image**
   Stores product image URLs or file references
